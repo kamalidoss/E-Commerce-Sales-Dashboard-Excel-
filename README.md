@@ -136,4 +136,4 @@ The dashboard enables **data-driven decisions for improving sales and marketing 
 
 **Kamali K**
 
-Aspiring **Data Analyst | SQL | Excel | Data Visualization**
+Aspiring **Data Analyst | SQL | Excel | Power BI | Python | Data Visualization**
