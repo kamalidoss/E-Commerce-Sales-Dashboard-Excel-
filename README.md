@@ -121,7 +121,7 @@ Customers **above 44 years** show the strongest loyalty with the highest **Gold 
 
 # 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard](Dashboard.png)
 
 ---
 
